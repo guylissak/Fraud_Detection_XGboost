@@ -72,12 +72,12 @@ mlflow ui --backend-store-uri sqlite:///mlflow.db
 ---
 
 ## 🧠 Models (validation set)
-![Kaggle Results](mlflow_models.png)
+![Results](mlflow_artifacts/mlflow_models.png)
 
 ---
 
 ## 📊 Kaggle Results
-![Kaggle Results](kaggle_scores.png)
+![Results](Kaggle_scores.png)
 - **Best private score:** ~0.91
 - **Best model:** model_220
 

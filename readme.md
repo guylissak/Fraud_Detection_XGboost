@@ -20,9 +20,8 @@ We utilize **XGBoost** for classification, along with **MLflow** to track experi
 ├── model_utils.py        # Model training & evaluation functions
 ├── notebooks/            # Jupyter notebooks for EDA & experimentation
 ├── mlflow_artifacts/     # Stored artifacts and logs
-├── mlruns/               # MLflow experiment tracking
 ├── README.md             # Project documentation
-└── requirements.txt      # Dependencies
+└── mlflow_client.py      # mlflow python client connection
 ```
 
 ---
